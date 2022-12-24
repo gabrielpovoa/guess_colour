@@ -13,7 +13,7 @@ export default createGlobalStyle`
   html {
     font-size: 62.5%;
     scroll-behavior: smooth;
-    overflow: hidden;
+    overflow-x: hidden;
   }
   body {
     font-family: 'Nunito Sans', sans-serif;
